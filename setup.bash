@@ -1,9 +1,5 @@
 #!/bin/bash -xve
-
-###BEGIN INIT INFO
-#Defaults-Start: 2
-#Defaults-Stop:
-###END INIT INFO
+#aiueokakikukekko
 
 exec 2> /tmp/setup.log
 
