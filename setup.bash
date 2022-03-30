@@ -1,5 +1,4 @@
 #!/bin/bash -xve
-#Written by Shogo
 
 exec 2> /tmp/setup.log
 
