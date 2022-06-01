@@ -1,5 +1,4 @@
 #!/bin/bash -xve
-#aiueokakikukekko
 
 exec 2> /tmp/setup.log
 
